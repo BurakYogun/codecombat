@@ -2014,14 +2014,14 @@ module.exports = nativeDescription: "Türkçe", englishDescription: "Turkish", t
 #    create_sharable_interactive_web_page: "Create a sharable interactive web page"
 
 #  delta:
-#    added: "Added"
+#    added: "Eklendi."
 #    modified: "Modified"
 #    not_modified: "Not Modified"
-#    deleted: "Deleted"
+#    deleted: "Silindi"
 #    moved_index: "Moved Index"
 #    text_diff: "Text Diff"
 #    merge_conflict_with: "MERGE CONFLICT WITH"
-#    no_changes: "No Changes"
+#    no_changes: "Değişiklik Yok"
 
   legal:
     page_title: "Hukuki"
@@ -2086,9 +2086,9 @@ module.exports = nativeDescription: "Türkçe", englishDescription: "Turkish", t
 #    blurb_3: "to the top human and ogre players."
 #    blurb_4: "Two teams means double the prizes!"
 #    blurb_5: "(There will be two first place winners, two second-place winners, etc.)"
-#    rank: "Rank"
-#    prizes: "Prizes"
-#    total_value: "Total Value"
+#    rank: "Rütbe"
+#    prizes: "Ödüller"
+#    total_value: "Toplam Değer"
 #    in_cash: "in cash"
 #    custom_wizard: "Custom CodeCombat Wizard"
 #    custom_avatar: "Custom CodeCombat avatar"
@@ -2096,7 +2096,7 @@ module.exports = nativeDescription: "Türkçe", englishDescription: "Turkish", t
 #    credits: "credits"
 #    one_month_coupon: "coupon: choose either Rails or HTML"
 #    one_month_discount: "discount, 30% off: choose either Rails or HTML"
-#    license: "license"
+#    license: "Lisans"
 #    oreilly: "ebook of your choice"
 
   calendar:
