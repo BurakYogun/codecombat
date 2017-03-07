@@ -58,7 +58,7 @@ module.exports = nativeDescription: "Türkçe", englishDescription: "Turkish", t
 #    boast: "Boasts riddles that are complex enough to fascinate gamers and coders alike."
 #    winning: "A winning combination of RPG gameplay and programming homework that pulls off making kid-friendly education legitimately enjoyable."
 #    run_class: "Everything you need to run a computer science class in your school today, no CS background required."
-#    goto_classes: "Go to My Classes"
+#    goto_classes: "Benim Sınıfıma Git"
 #    view_profile: "Profilimi Görüntüle"
 #    view_progress: "İlerlemeyi Görüntüle"
 #    go_to_courses: "Derslerime Git"
@@ -136,8 +136,8 @@ module.exports = nativeDescription: "Türkçe", englishDescription: "Turkish", t
     change_hero: "Kahramanı Değiştir" # Go back from choose inventory to choose hero
     buy_gems: "Değerli Taş Satın Al"
     subscription_required: "Abonelik Gerekli"
-#    subscribers_only: "Subscribers Only!"
-#    subscribe_unlock: "Subscribe to Unlock!"
+#    subscribers_only: "Sadece Aboneler İçin!"
+#    subscribe_unlock: "Aboneliğin Kilidini Açın"
     anonymous: "Anonim Oyuncu"
     level_difficulty: "Zorluk: "
     play_classroom_version: "Sınıf Sürümünü Oyna" # Choose a level in campaign version that you also can play in one of your courses
